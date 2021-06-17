@@ -1,3 +1,3 @@
 FROM alpine
 
-ADD miner.sh /miner
+ADD miner.sh /usr/local/bin/miner
